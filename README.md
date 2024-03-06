@@ -3,17 +3,12 @@
 <p align="center">
   <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">License</a>
-</p>
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Registration Form" src=".github/preview.jpg" width="100%">
+  <img alt="Registration Form" src=".github/RegistrationForm.png" width="100%">
 </p>
 
 ## 🚀 Technologies
@@ -26,3 +21,7 @@ This project was developed with the following technologies:
 ## 💻 Project
 
 You can use HTML forms to collect information from people who visit your webpage.
+
+---
+
+FreeCodeCamp <link rel="icon" href="/favicon-32x32.png?v=6cba562cbd10e31af925a976f3db73f7" type="image/png"> trainnig by DevHighlander
