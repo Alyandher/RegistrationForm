@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="Registration Form" src=".github/RegistrationForm.png" width="70%">
+  <img alt="Registration Form" src=".github/RegistrationForm.png" width="50%">
 </p>
 
 ## 🚀 Technologies
