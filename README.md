@@ -1,6 +1,11 @@
 <h1 align="center"> Registration Form </h1>
 
 <p align="center">
+Exclusive and free program, promoted by FreeCodeCamp for teaching WEB technologies. <br/>
+<a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">Study this project by clicking here.</a>
+</p>
+
+<p align="center">
   <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Project">Project</a>
 </p>
