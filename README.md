@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="Registration Form" src=".github/RegistrationForm.png" width="100%">
+  <img alt="Registration Form" src=".github/RegistrationForm.png" width="70%">
 </p>
 
 ## 🚀 Technologies
@@ -23,6 +23,8 @@ This project was developed with the following technologies:
 You can use HTML forms to collect information from people who visit your webpage.
 
 In this course, you'll learn HTML forms by building a signup page. You'll learn how to control what types of data people can type into your form, and some new CSS tools for styling your page.
+
+- [Access the finished project online](https://alyandher.github.io/RegistrationForm/)
 
 ---
 
