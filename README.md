@@ -1,8 +1,8 @@
 <h1 align="center"> Registration Form </h1>
 
 <p align="center">
-  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -22,6 +22,8 @@ This project was developed with the following technologies:
 
 You can use HTML forms to collect information from people who visit your webpage.
 
+In this course, you'll learn HTML forms by building a signup page. You'll learn how to control what types of data people can type into your form, and some new CSS tools for styling your page.
+
 ---
 
-FreeCodeCamp <link rel="icon" href="/favicon-32x32.png?v=6cba562cbd10e31af925a976f3db73f7" type="image/png"> trainnig by DevHighlander
+[FreeCodeCamp](https://www.freecodecamp.org/learn/) training by DevHighlander
